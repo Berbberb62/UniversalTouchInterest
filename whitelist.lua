@@ -3,7 +3,8 @@ local Whitelist = {
     "wishhole",
     "Bawarmaker001",
     "bawarmaker001",
-    "JeloyMagdale"
+    "JeloyMagdale",
+    "NEEDINGGG"
 }
 
 return Whitelist
