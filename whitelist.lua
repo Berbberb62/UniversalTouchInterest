@@ -1,5 +1,5 @@
 -- whitelist.lua
-local Whitelist = {
+local Whitelisted = {
     "wishhole",
     "Bawarmaker001",
     "bawarmaker001",
@@ -7,4 +7,4 @@ local Whitelist = {
     "NEEDINGGG"
 }
 
-return Whitelist
+return Whitelisted
