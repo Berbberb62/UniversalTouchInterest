@@ -2,7 +2,8 @@
 local Whitelisted = {
     "wishhole",
     "JeloyMagdale",
-    "NEEDINGGG"
+    "NEEDINGGG",
+    "Bawarmaker002"
 }
 
 return Whitelisted
